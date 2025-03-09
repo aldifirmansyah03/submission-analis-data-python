@@ -42,7 +42,7 @@ streamlit run dashboard/dashboard.py
 
 ## 🔗 URL Deployment (Jika Ada)  
 Jika dashboard telah di-deploy di **Streamlit Cloud**, masukkan URL-nya di sini:  
-[🔗 Link Dashboard](https://your-streamlit-url.com)  
+[🔗 Link Dashboard](https://smbp5tzfwlfwncerev2tu4.streamlit.app/)  
 
 ## 📩 Kontributor  
 - **Nama:** Muchamad Aldi Firmansyah
