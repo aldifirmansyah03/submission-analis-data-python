@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Pastikan path dataset utama benar
-dataset_path = "C:/Users/Aldi/dicoding proyek/ecommerce_dataset/submission/dashboard/main_data.csv"
+dataset_path =dataset_path = "dashboard/main_data.csv"
 
 # Load dataset utama
 if os.path.exists(dataset_path):
